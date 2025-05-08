@@ -6,3 +6,4 @@ class Dog:
         self.breed = breed
 
 fido = Dog("Fido")
+
